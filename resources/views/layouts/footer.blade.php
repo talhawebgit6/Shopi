@@ -10,13 +10,13 @@
                         </div>
                         <h5 class="mt-20 mb-10 fw-600 text-grey-4 wow fadeIn animated">Contact</h5>
                         <p class="wow fadeIn animated">
-                            <strong>Address: </strong>Tetouan Shore
+                            <strong>Address: </strong>Welcome Tailoring Shop Near HIT Gate # 5 Taxila Cantt.
                         </p>
                         <p class="wow fadeIn animated">
-                            <strong>Phone: </strong>+212 682860421
+                            <strong>Phone: </strong>+92 313 3819210
                         </p>
                         <p class="wow fadeIn animated">
-                            <strong>Email: </strong>yusufisawi@gmail.com
+                            <strong>Email: </strong>welcometailors@gmail.com
                         </p>
                     </div>
                 </div>
